@@ -1,0 +1,6 @@
+{
+  "name": "SomGPT AI",
+  "description": "An intelligent, multimodal AI assistant providing educational explanations, internet research, voice interactions, image analysis, and multilingual support in Somali, English, Arabic, and more.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
